@@ -19,7 +19,7 @@ SecurePass - это генератор паролей на языке Python, к
 2. Склонируйте репозиторий SecurePass с помощью следующей команды:
 
    ```
-   git clone https://github.com/your-username/SecurePass.git
+   git clone https://github.com/AirSoftick/SecurePass.git
    ```
 
 3. Перейдите в каталог проекта:
